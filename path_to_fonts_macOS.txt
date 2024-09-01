@@ -1,0 +1,5 @@
+/Users/tascoli/Library/Fonts
+tar  --exclude='*.md' -xvf Meslo_NF.tar.xz -C /Users/tascoli/Library/Fonts
+
+
+https://github.com/Tascoli/fonts/raw/main/Nerd_fonts/FiraCode_NF.tar.xz
