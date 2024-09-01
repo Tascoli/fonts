@@ -47,7 +47,9 @@ curl -L https://github.com/Tascoli/fonts/raw/main/Nerd_fonts/JetBrainsMono_NF.ta
 curl -L https://github.com/Tascoli/fonts/raw/main/Nerd_fonts/MesloLGS.tar.xz --output /tmp/fonts/MesloLGS.tar.xz
 
 # Decompress and move files
-
+# Tar cheat sheet https://cheatsheetfactory.geekyhacker.com/linux/file_compression
+#
+#
 cd /tmp/fonts
 
 # Test which System and use one varieble "loop for" to mac and other to linux
